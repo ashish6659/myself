@@ -20,23 +20,23 @@
 
 
 
-<h2> <img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/heart.png?raw=true" width=30px /> Github Stats:-</h2>
+<h2> <img src="https://raw.githubusercontent.com/ashish6659/myself/Images_For_README/heart.png?raw=true" width=30px /> Github Stats:-</h2>
 
 # [![Samarpan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashish6659&theme=algolia)](https://github.com/ashish6659/github-readme-stats)
 
 </br>
 
-## <img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/heart.png?raw=true" width=30px /> Most Used Languages:-
+## <img src="https://raw.githubusercontent.com/ashish6659/myself/Images_For_README/heart.png?raw=true" width=30px /> Most Used Languages:-
 # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish6659&layout=compact&theme=vision-friendly-dark&langs_count=6)](https://github.com/ashish6659/github-readme-stats)
 
 </br>
 
-## <img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/heart.png?raw=true" width=30px /> Github Streak Stats:-
+## <img src="https://raw.githubusercontent.com/ashish6659/myself/Images_For_README/heart.png?raw=true" width=30px /> Github Streak Stats:-
 # [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashish6659&theme=tokyonight)](https://github.com/ashish6659/github-readme-streak-stats)
 
 </br>
 
-## <img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/heart.png?raw=true" width=30px /> Github Trophies:-
+## <img src="https://raw.githubusercontent.com/ashish6659/myself/Images_For_README/heart.png?raw=true" width=30px /> Github Trophies:-
 [![trophy](https://github-profile-trophy.vercel.app/?username=ashish6659&theme=gruvbox)](https://github.com/ashish6659/github-profile-trophy)
 
 
@@ -56,17 +56,17 @@ def mindit():
 
 <h2> ⚒️ Tools and Programming Languages:- </h2>
 <p align="left">
-<img src="https://raw.githubusercontent.com/SamarpanCoder2002/SamarpanCoder2002/d06e07df7d8fd91e5b3cc00a5ef7aefaea28a4f3/Images_For_README/c_laang.svg" width=50px>
-<img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/c++_lang.png?raw=true" width=60px>
-<img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/python_logo.png?raw=true" width=40px>&nbsp&nbsp
-<img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/git.png?raw=true" width=40px>&nbsp&nbsp
-<img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/github.png?raw=true" width=40px>&nbsp&nbsp
-<img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/mysql_logo.png?raw=true" width=80px>
-<img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/html_logo.png?raw=true" width=50px>
-<img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/css_logo.png?raw=true" width=50px>
+<img src="https://raw.githubusercontent.com/ashish6659/myself/Images_For_README/Images_For_README/c_laang.svg" width=50px>
+<img src="https://raw.githubusercontent.com/ashish6659/myself/Images_For_README/c++_lang.png?raw=true" width=60px>
+<img src="https://github.com/ashish6659/myself/Images_For_README/python_logo.png?raw=true" width=40px>&nbsp&nbsp
+<img src="https://github.com/ashish6659/myself/Images_For_README/git.png?raw=true" width=40px>&nbsp&nbsp
+<img src="https://github.com/ashish6659/myself/Images_For_README/github.png?raw=true" width=40px>&nbsp&nbsp
+<img src="https://github.com/ashish6659/myself/Images_For_README/mysql_logo.png?raw=true" width=80px>
+<img src="https://github.com/ashish6659/myself/Images_For_README/html_logo.png?raw=true" width=50px>
+<img src="https://github.com/ashish6659/myself/Images_For_README/css_logo.png?raw=true" width=50px>
 </p>
 <br/>
 
-[youtube]: https://www.youtube.com/channel/UCafv0dsb4Xp8sSWoKdmw5BQ
+[instagram]: https://www.instagram/u/ashish827
 
-[linkedin]: https://www.linkedin.com/in/samarpan-dasgupta-4aa1061b0/
+[linkedin]: https://www.linkedin.com/in/ashish-yadav-b1ba24205
