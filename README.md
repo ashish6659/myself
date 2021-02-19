@@ -10,7 +10,7 @@
 <br></br>
 
 
-- 💥 ***I'm Currently Preparing for NIMCET. ***</br></br>
+- 💥 ***I'm Currently Preparing for NIMCET.***</br></br>
 - 🔭 ***I'm BCA (Bachelors in Computer Application) Graduated Student.***</br></br>
 - 🌱 ***I’m Learning Flutter and try to make Some Projects in Flutter.***</br></br>
 - 🎯 ***I’m focusing on Competitive Programming.***</br></br>
