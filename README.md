@@ -56,14 +56,14 @@ def mindit():
 
 <h2> ⚒️ Tools and Programming Languages:- </h2>
 <p align="left">
-<img src="https://raw.githubusercontent.com/ashish6659/myself/Images_For_README/Images_For_README/c_laang.svg" width=50px>
+<img src="https://raw.githubusercontent.com/ashish6659/myself/Images_For_README/Images_For_README/c_laang.svg?raw=true" width=50px>
 <img src="https://raw.githubusercontent.com/ashish6659/myself/Images_For_README/c++_lang.png?raw=true" width=60px>
-<img src="https://github.com/ashish6659/myself/Images_For_README/python_logo.png?raw=true" width=40px>&nbsp&nbsp
-<img src="https://github.com/ashish6659/myself/Images_For_README/git.png?raw=true" width=40px>&nbsp&nbsp
-<img src="https://github.com/ashish6659/myself/Images_For_README/github.png?raw=true" width=40px>&nbsp&nbsp
-<img src="https://github.com/ashish6659/myself/Images_For_README/mysql_logo.png?raw=true" width=80px>
-<img src="https://github.com/ashish6659/myself/Images_For_README/html_logo.png?raw=true" width=50px>
-<img src="https://github.com/ashish6659/myself/Images_For_README/css_logo.png?raw=true" width=50px>
+<img src="https://raw.githubusercontent.com/ashish6659/myself/Images_For_README/python_logo.png?raw=true" width=40px>&nbsp&nbsp
+<img src="https://raw.githubusercontent.com/ashish6659/myself/Images_For_README/git.png?raw=true" width=40px>&nbsp&nbsp
+<img src="https://raw.githubusercontent.com/ashish6659/myself/Images_For_README/github.png?raw=true" width=40px>&nbsp&nbsp
+<img src="https://raw.githubusercontent.com/ashish6659/myself/Images_For_README/mysql_logo.png?raw=true" width=80px>
+<img src="https://raw.githubusercontent.com/ashish6659/myself/Images_For_README/html_logo.png?raw=true" width=50px>
+<img src="https://raw.githubusercontent.com/ashish6659/myself/Images_For_README/css_logo.png?raw=true" width=50px>
 </p>
 <br/>
 
